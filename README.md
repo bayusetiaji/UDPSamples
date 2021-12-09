@@ -1,5 +1,5 @@
 # UDPSamples
-A Simple demo of UDP client-server using WindSock.
+A Simple demo of UDP client-server using WinSock.
 
 There are 2 projects:
 1. UDPServer
