@@ -8,5 +8,5 @@ A simple server that receives a message from client.
 2. UDPClient
 A simple client to send a message to server.
 
-# Dependency
+## Dependency
 ws2_32.lib
